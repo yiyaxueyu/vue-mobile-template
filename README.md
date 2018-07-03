@@ -1,4 +1,4 @@
-# summer-project
+# vue-mobile-template
 
 > A Vue.js project
 
